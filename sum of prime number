@@ -1,0 +1,10 @@
+public class CountNumbers {
+    public static void main(String[] args) {
+        int start = 10;
+        int end = 50;
+
+        int count = end - start + 1;
+
+        System.out.println("Total numbers: " + count);
+    }
+}
